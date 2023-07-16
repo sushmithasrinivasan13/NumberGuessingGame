@@ -1,0 +1,237 @@
+#s1
+{
+width:350px;
+border-radius:20px;
+margin-top:250px;
+margin-left:500px;
+height:200px;
+background-color:skyblue;
+}
+#s2
+{
+font-size:25px;
+width:350px;
+height:45px;
+border-radius:20px;
+margin-right:200px;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:white;
+}
+#s3
+{
+font-size:20px;
+border-radius:10px;
+margin-top:50px;
+margin-left:130px;
+width:90px;
+height:50px;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:red;
+}
+#s3:hover
+{
+background-color:tomato;
+}
+#s4
+{
+height:550px;
+width:700px;
+margin-left:350px;
+margin-top:30px;
+background-color:cornflowerblue;
+}
+#s4
+{
+background-image:linear-gradient(to bottom right,#240b36,#ed213a,#93291e,#240b36);
+}
+#s5
+{
+height:550px;
+width:650px;
+margin-left:23px;
+margin-top:25px;
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-left-radius:25px;
+border-bottom-right-radius:25px;
+background-color:powderblue;
+}
+#s5
+{
+background-image:linear-gradient(to right,#ffafbd,#ffc3a0);
+}
+#s6
+{
+font-size:30px;
+width:650px;
+height:90px;
+display:flex;
+align-items:center;
+justify-content:center;
+border-radius:20px;
+border-bottom-right-radius:25px;
+border-top-left-radius:25px;
+font-size:35px;
+background-color:white;
+}
+#s7
+{
+width:90px;
+height:70px;
+margin-top:30px;
+margin-left:275px;
+display:flex;
+align-items:center;
+justify-content:center;
+border-bottom-right-radius:10px;
+border-top-left-radius:10px;
+border-bottom-left-radius:10px;
+border-top-right-radius:10px;
+font-size:35px;
+}
+#s8
+{
+width: 145px;
+height: 70px;
+margin-top: 30px;
+margin-left: 250px;
+font-size: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+border-bottom-right-radius: 20px;
+border-top-left-radius: 20px;
+border-bottom-left-radius: 20px;
+border-top-right-radius: 20px;
+font-size: 35px;
+background-color:red;
+}
+#s9
+{
+font-size: 30px;
+width: 300px;
+height: 50px;
+margin-left: 180px;
+margin-top: 33px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#s10
+{
+font-size: 30px;
+}
+#s11
+{
+width:30px;
+height:32px;
+margin-left:2px;
+}
+#s12
+{
+font-size: 30px;
+width: 500px;
+height: 100px;
+margin-left: 80px;
+margin-top: 20px;
+margin-bottom:10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#s8:hover
+{
+background-color:tomato;
+}
+.a
+{
+background-image:url('https://img.freepik.com/premium-vector/you-win-sign-pop-art-style_175838-498.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center;
+width: 35%;
+height: 40vh;
+font-family: Arial, sans-serif;
+text-align: center;
+margin:0 auto;
+animation: scaleAnimation 1s ease-in-out infinite;
+}
+@keyframes scaleAnimation 
+{
+0% 
+{
+  transform: scale(1);
+}
+100% 
+{
+  transform: scale(1.1);
+}
+}
+body
+{
+text-align: center;
+}
+#a1 
+{
+color: #334;
+font-size: 24px;
+margin-top: 50px;
+}
+#a2  
+{
+color: #666;
+font-size: 20px;
+margin-top: 20px;
+}
+.highlight 
+{
+color: blue;
+font-weight: bold;
+font-size:25px;
+}
+body
+{
+text-align: center;
+}
+#b
+{
+background-image: linear-gradient(to right, skyblue, white, skyblue, violet);
+height:600px;
+}
+#b1
+{
+color: #333;
+font-size: 24px;
+}
+#b2 
+{
+color: #666;
+font-size: 18px;
+}
+.highlight 
+{
+color: blue;
+font-weight: bold;
+}
+#r1
+{
+border:2px solid;
+width:100px;
+height:40px;
+font-size:25px;
+display: flex;
+align-items:center;
+justify-content: center;
+border-radius:10px;
+margin-left:700px;
+background-color:limegreen;
+margin-top:90px;
+}
+#r1:hover
+{
+background-color:lightgreen;
+}
